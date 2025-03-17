@@ -1,0 +1,23 @@
+.countdown {
+  background:transparent;
+  color: gray;
+  padding: 15px;
+  border-radius: 12px;
+  width: 100%;
+  max-width: 280px;
+  margin: 20px auto;
+  font-size: 18px;
+  text-align: center;
+}
+
+.countdown h2 {
+  font-size: 1.2rem;
+  margin-bottom: 2px;
+  color: white;
+}
+
+.countdown p {
+  font-size: 1.8rem;
+  font-weight: bold;
+  letter-spacing: 1px;
+}

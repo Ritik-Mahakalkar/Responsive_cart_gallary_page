@@ -1,0 +1,35 @@
+body{
+    background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI0XiXFpFHzGoY4AfNFG9eMoq5Fy3YP8b8Gw&s")no-repeat center center fixed ;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.nav-buttons {
+    padding: 15px;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    height: 10vh;
+    margin-right: 4%;
+    font-family: Arial, sans-serif;
+}
+.btn {
+    padding: 10px 20px;
+    margin: 5px;
+    border: none;
+    border-radius: 25px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.btn-login {
+    background-color: transparent;
+    color: white;
+    border: 2px solid white;
+}
+.btn-login:hover {
+    background-color: white;
+    color: black;
+}
